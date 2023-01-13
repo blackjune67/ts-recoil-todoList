@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import RecoilPrc from './pages/RecoilPrc';
 import { ThemContext } from './context/ThemContext';
