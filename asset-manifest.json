@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ts-recoil-todoList/static/css/main.073c9b0a.css",
+    "main.js": "/ts-recoil-todoList/static/js/main.d4889f0b.js",
+    "index.html": "/ts-recoil-todoList/index.html",
+    "main.073c9b0a.css.map": "/ts-recoil-todoList/static/css/main.073c9b0a.css.map",
+    "main.d4889f0b.js.map": "/ts-recoil-todoList/static/js/main.d4889f0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d4889f0b.js"
+  ]
+}
